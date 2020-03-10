@@ -14,13 +14,13 @@
         "eslint-config-prettier": "^6.5.0",
         "eslint-plugin-prettier": "^3.1.1",
         "eslint-plugin-vue": "^5.2.3",
-        "laravel-mix": "^1.0",
-        "laravel-nova": "^1.0",
+        "laravel-mix": "^4.0",
+        "laravel-nova": "^3.0",
         "prettier": "^1.18.2"
     },
     "dependencies": {
         "clipboard-copy": "^3.1.0",
-        "vue": "^2.5.0",
+        "vue": "^2.6.0",
         "vue-cropperjs": "^4.0.1",
         "vuedraggable": "^2.23.2"
     }
